@@ -1,3 +1,5 @@
 Hello World!
 My name is Irene
+i'm a student
+i live in Uganda
 I have been able to push my first task to GitHub.
